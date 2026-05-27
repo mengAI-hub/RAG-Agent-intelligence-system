@@ -1,0 +1,417 @@
+{
+  "nodes": [
+    {
+      "id": "tech:langchain ai langchain",
+      "kind": "technology",
+      "title": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "The agent engineering platform.",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "id": "source:github",
+      "kind": "source",
+      "name": "github"
+    },
+    {
+      "id": "paper:https://github.com/langchain-ai/langchain",
+      "kind": "paper",
+      "url": "https://github.com/langchain-ai/langchain"
+    },
+    {
+      "id": "repo:https://github.com/langchain-ai/langchain",
+      "kind": "repo",
+      "url": "https://github.com/langchain-ai/langchain",
+      "stars": 137254
+    },
+    {
+      "id": "task:agent",
+      "kind": "task",
+      "name": "agent"
+    },
+    {
+      "id": "tech:shubhamsaboo awesome llm apps",
+      "kind": "technology",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "id": "paper:https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "kind": "paper",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "id": "repo:https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "kind": "repo",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 111294
+    },
+    {
+      "id": "task:rag",
+      "kind": "task",
+      "name": "rag"
+    },
+    {
+      "id": "tech:infiniflow ragflow",
+      "kind": "technology",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "summary": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "id": "paper:https://github.com/infiniflow/ragflow",
+      "kind": "paper",
+      "url": "https://github.com/infiniflow/ragflow"
+    },
+    {
+      "id": "repo:https://github.com/infiniflow/ragflow",
+      "kind": "repo",
+      "url": "https://github.com/infiniflow/ragflow",
+      "stars": 80936
+    },
+    {
+      "id": "task:evaluation",
+      "kind": "task",
+      "name": "evaluation"
+    },
+    {
+      "id": "tech:mem0ai mem0",
+      "kind": "technology",
+      "title": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "summary": "Universal memory layer for AI Agents",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "id": "paper:https://github.com/mem0ai/mem0",
+      "kind": "paper",
+      "url": "https://github.com/mem0ai/mem0"
+    },
+    {
+      "id": "repo:https://github.com/mem0ai/mem0",
+      "kind": "repo",
+      "url": "https://github.com/mem0ai/mem0",
+      "stars": 56304
+    },
+    {
+      "id": "tech:run llama llama index",
+      "kind": "technology",
+      "title": "run-llama/llama_index",
+      "url": "https://github.com/run-llama/llama_index",
+      "summary": "LlamaIndex is the leading document agent and OCR platform",
+      "sources": [
+        "github"
+      ]
+    },
+    {
+      "id": "paper:https://github.com/run-llama/llama_index",
+      "kind": "paper",
+      "url": "https://github.com/run-llama/llama_index"
+    },
+    {
+      "id": "repo:https://github.com/run-llama/llama_index",
+      "kind": "repo",
+      "url": "https://github.com/run-llama/llama_index",
+      "stars": 49548
+    },
+    {
+      "id": "tech:show hn agent email sign up via curl claim with a human otp",
+      "kind": "technology",
+      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "url": "https://news.ycombinator.com/item?id=48212471",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "source:hackernews",
+      "kind": "source",
+      "name": "hackernews"
+    },
+    {
+      "id": "paper:https://news.ycombinator.com/item?id=48212471",
+      "kind": "paper",
+      "url": "https://news.ycombinator.com/item?id=48212471"
+    },
+    {
+      "id": "tech:show hn dari docs optimize your docs using parallel coding agents",
+      "kind": "technology",
+      "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+      "url": "https://github.com/mupt-ai/dari-docs",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "paper:https://github.com/mupt-ai/dari-docs",
+      "kind": "paper",
+      "url": "https://github.com/mupt-ai/dari-docs"
+    },
+    {
+      "id": "repo:https://github.com/mupt-ai/dari-docs",
+      "kind": "repo",
+      "url": "https://github.com/mupt-ai/dari-docs",
+      "stars": 0
+    },
+    {
+      "id": "tech:bigger context windows won t save your agent",
+      "kind": "technology",
+      "title": "Bigger context windows won't save your agent",
+      "url": "https://rahulbaboota.substack.com/p/bigger-context-windows-wont-save",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "paper:https://rahulbaboota.substack.com/p/bigger-context-windows-wont-save",
+      "kind": "paper",
+      "url": "https://rahulbaboota.substack.com/p/bigger-context-windows-wont-save"
+    },
+    {
+      "id": "tech:show hn atrium a resumable tiling workspace manager for claude code codex",
+      "kind": "technology",
+      "title": "Show HN: atrium – a resumable, tiling workspace manager for Claude Code, Codex",
+      "url": "https://getatrium.dev",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "paper:https://getatrium.dev",
+      "kind": "paper",
+      "url": "https://getatrium.dev"
+    },
+    {
+      "id": "task:general-ai",
+      "kind": "task",
+      "name": "general-ai"
+    },
+    {
+      "id": "tech:show hn one dev environment for humans ci and ai agents",
+      "kind": "technology",
+      "title": "Show HN: One dev environment for humans, CI, and AI agents",
+      "url": "https://ralch.com/blog/one-dev-environment-for-humans-ci-and-agents/",
+      "sources": [
+        "hackernews"
+      ]
+    },
+    {
+      "id": "paper:https://ralch.com/blog/one-dev-environment-for-humans-ci-and-agents/",
+      "kind": "paper",
+      "url": "https://ralch.com/blog/one-dev-environment-for-humans-ci-and-agents/"
+    }
+  ],
+  "edges": [
+    {
+      "source": "tech:langchain ai langchain",
+      "relation": "appears_in",
+      "target": "source:github"
+    },
+    {
+      "source": "tech:langchain ai langchain",
+      "relation": "has_paper",
+      "target": "paper:https://github.com/langchain-ai/langchain"
+    },
+    {
+      "source": "tech:langchain ai langchain",
+      "relation": "has_code",
+      "target": "repo:https://github.com/langchain-ai/langchain"
+    },
+    {
+      "source": "tech:langchain ai langchain",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:shubhamsaboo awesome llm apps",
+      "relation": "appears_in",
+      "target": "source:github"
+    },
+    {
+      "source": "tech:shubhamsaboo awesome llm apps",
+      "relation": "has_paper",
+      "target": "paper:https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "source": "tech:shubhamsaboo awesome llm apps",
+      "relation": "has_code",
+      "target": "repo:https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    {
+      "source": "tech:shubhamsaboo awesome llm apps",
+      "relation": "belongs_to_task",
+      "target": "task:rag"
+    },
+    {
+      "source": "tech:shubhamsaboo awesome llm apps",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:infiniflow ragflow",
+      "relation": "appears_in",
+      "target": "source:github"
+    },
+    {
+      "source": "tech:infiniflow ragflow",
+      "relation": "has_paper",
+      "target": "paper:https://github.com/infiniflow/ragflow"
+    },
+    {
+      "source": "tech:infiniflow ragflow",
+      "relation": "has_code",
+      "target": "repo:https://github.com/infiniflow/ragflow"
+    },
+    {
+      "source": "tech:infiniflow ragflow",
+      "relation": "belongs_to_task",
+      "target": "task:rag"
+    },
+    {
+      "source": "tech:infiniflow ragflow",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:infiniflow ragflow",
+      "relation": "belongs_to_task",
+      "target": "task:evaluation"
+    },
+    {
+      "source": "tech:mem0ai mem0",
+      "relation": "appears_in",
+      "target": "source:github"
+    },
+    {
+      "source": "tech:mem0ai mem0",
+      "relation": "has_paper",
+      "target": "paper:https://github.com/mem0ai/mem0"
+    },
+    {
+      "source": "tech:mem0ai mem0",
+      "relation": "has_code",
+      "target": "repo:https://github.com/mem0ai/mem0"
+    },
+    {
+      "source": "tech:mem0ai mem0",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:run llama llama index",
+      "relation": "appears_in",
+      "target": "source:github"
+    },
+    {
+      "source": "tech:run llama llama index",
+      "relation": "has_paper",
+      "target": "paper:https://github.com/run-llama/llama_index"
+    },
+    {
+      "source": "tech:run llama llama index",
+      "relation": "has_code",
+      "target": "repo:https://github.com/run-llama/llama_index"
+    },
+    {
+      "source": "tech:run llama llama index",
+      "relation": "belongs_to_task",
+      "target": "task:rag"
+    },
+    {
+      "source": "tech:run llama llama index",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:show hn agent email sign up via curl claim with a human otp",
+      "relation": "appears_in",
+      "target": "source:hackernews"
+    },
+    {
+      "source": "tech:show hn agent email sign up via curl claim with a human otp",
+      "relation": "has_paper",
+      "target": "paper:https://news.ycombinator.com/item?id=48212471"
+    },
+    {
+      "source": "tech:show hn agent email sign up via curl claim with a human otp",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:show hn dari docs optimize your docs using parallel coding agents",
+      "relation": "appears_in",
+      "target": "source:hackernews"
+    },
+    {
+      "source": "tech:show hn dari docs optimize your docs using parallel coding agents",
+      "relation": "has_paper",
+      "target": "paper:https://github.com/mupt-ai/dari-docs"
+    },
+    {
+      "source": "tech:show hn dari docs optimize your docs using parallel coding agents",
+      "relation": "has_code",
+      "target": "repo:https://github.com/mupt-ai/dari-docs"
+    },
+    {
+      "source": "tech:show hn dari docs optimize your docs using parallel coding agents",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:bigger context windows won t save your agent",
+      "relation": "appears_in",
+      "target": "source:hackernews"
+    },
+    {
+      "source": "tech:bigger context windows won t save your agent",
+      "relation": "has_paper",
+      "target": "paper:https://rahulbaboota.substack.com/p/bigger-context-windows-wont-save"
+    },
+    {
+      "source": "tech:bigger context windows won t save your agent",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    },
+    {
+      "source": "tech:show hn atrium a resumable tiling workspace manager for claude code codex",
+      "relation": "appears_in",
+      "target": "source:hackernews"
+    },
+    {
+      "source": "tech:show hn atrium a resumable tiling workspace manager for claude code codex",
+      "relation": "has_paper",
+      "target": "paper:https://getatrium.dev"
+    },
+    {
+      "source": "tech:show hn atrium a resumable tiling workspace manager for claude code codex",
+      "relation": "belongs_to_task",
+      "target": "task:general-ai"
+    },
+    {
+      "source": "tech:show hn one dev environment for humans ci and ai agents",
+      "relation": "appears_in",
+      "target": "source:hackernews"
+    },
+    {
+      "source": "tech:show hn one dev environment for humans ci and ai agents",
+      "relation": "has_paper",
+      "target": "paper:https://ralch.com/blog/one-dev-environment-for-humans-ci-and-agents/"
+    },
+    {
+      "source": "tech:show hn one dev environment for humans ci and ai agents",
+      "relation": "belongs_to_task",
+      "target": "task:agent"
+    }
+  ]
+}
